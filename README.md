@@ -26,9 +26,8 @@ data structures:
 | --- | --- |
 | Singly linked list | Completed |
 | Circular singly linked list | Completed |
-| Doubly linked list | In progress |
-| Dynamic array | Not started |
-| Stack | Not started |
+| Doubly linked list | Completed |
+| Stack | Completed |
 | Queue | Not started |
 | Circular queue | Not started |
 | Binary search tree | Not started |

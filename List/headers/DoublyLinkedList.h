@@ -21,4 +21,8 @@ void insert(DoublyLinkedList<T>& list, const T& value);
 
 template<typename T>
 void destroy(DoublyLinkedList<T> &list);
+
+template<typename T>
+void remove(DoublyLinkedList<T> const& list, int index);
+
 #endif

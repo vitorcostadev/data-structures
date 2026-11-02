@@ -52,6 +52,15 @@ void insertLast(DoublyLinkedList<T>& list, const T& value){
 }
 
 template<typename T>
+void remove(DoublyLinkedList<T> const& list, int index)
+{
+    if(list.size == 0) return;
+    if(index < 0 || index >= list.size) return;
+
+    
+}
+
+template<typename T>
 void destroy(DoublyLinkedList<T> &list){
     if(list.size == 0) return;
 
